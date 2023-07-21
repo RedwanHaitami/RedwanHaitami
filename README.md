@@ -1,4 +1,4 @@
-- 👋 Hi, I’m **Redwan Haitami**, a passionate **Frontend Developer**.
+- 👋 Hi, I’m **Redwan Haitami**, a passionate **Front-end web developer**.
 - 🌱 I’m currently learning on **OpenClassrooms**, **freeCodeCamp** and **The Odin Project**.
 - :briefcase: I'm currently working on a **personal project**.
 
