@@ -1,6 +1,7 @@
-- 👋 Hi, I’m **Redwan Haitami**, a passionate **Front-end web developer**.
-- 🌱 I’m currently learning on **OpenClassrooms**, **freeCodeCamp** and **The Odin Project**.
-- :briefcase: I'm currently working on a **personal project**.
+# Hi 👋, I’m Redwan Haitami 
+A self-taught **Front-End web developer**
+- 🌱 I’m currently learning on **freeCodeCamp** and **The Odin Project**
+- 🔭 I'm currently working on a **JavaScript Project**
 
 <!---
 RedwanHaitami/RedwanHaitami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
