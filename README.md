@@ -1,5 +1,5 @@
 # Hi 👋, I’m Redwan Haitami 
-A self-taught **Front-End web developer**
+### A self-taught **Front-End web developer**
 - 🌱 I’m currently learning **JavaScript** 
 - 🔭 I'm currently working on a **JavaScript Project**
 - 👯 I’m looking to collaborate on **web development** projects
