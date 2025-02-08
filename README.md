@@ -1,6 +1,5 @@
 # Hi 👋, I’m Redwan Haitami 
 ### A Front-end Web Developer
-- 🔭 I'm currently working on a **JavaScript Project**
 - 👯 I’m looking to collaborate on **web development** projects
 - 📫 How to reach me: redwanhaitami@gmail.com
 <!---
